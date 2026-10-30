@@ -17,7 +17,7 @@ import zipfile
 
 SKILL_NAME = "landing-page-strategist"
 REPOSITORY = "tonatojustin4-sketch/landing-page-strategist"
-DEFAULT_REF = "v1.0.0"
+DEFAULT_REF = "v1.1.0"
 MAX_ARCHIVE_BYTES = 10 * 1024 * 1024
 
 

@@ -6,7 +6,7 @@
 $skill-installer instala https://github.com/tonatojustin4-sketch/landing-page-strategist/tree/main/skills/landing-page-strategist
 ```
 
-Para una versión fija, cambia `main` por `v1.0.0`. El instalador integrado determina la ubicación en tu entorno; en la versión usada para verificar este repositorio es `$CODEX_HOME/skills`, o `~/.codex/skills` si no está definida esa variable. La documentación actual también describe `~/.agents/skills` como ubicación de skills personales. Evita instalar dos copias con el mismo nombre en rutas diferentes.
+Para una versión fija, cambia `main` por `v1.1.0`. El instalador integrado determina la ubicación en tu entorno; en la versión usada para verificar este repositorio es `$CODEX_HOME/skills`, o `~/.codex/skills` si no está definida esa variable. La documentación actual también describe `~/.agents/skills` como ubicación de skills personales. Evita instalar dos copias con el mismo nombre en rutas diferentes.
 
 La skill estará disponible en el siguiente turno. Si no aparece, reinicia Codex. Consulta la [documentación oficial](https://developers.openai.com/codex/skills/) para las ubicaciones que admite tu versión.
 
@@ -15,7 +15,7 @@ La skill estará disponible en el siguiente turno. Si no aparece, reinicia Codex
 Requiere Python 3.10 o superior y acceso HTTPS a GitHub al descargar. No necesita paquetes adicionales. Descarga el instalador de una versión fija:
 
 ```bash
-curl --fail --location --output install-landing-page.py https://raw.githubusercontent.com/tonatojustin4-sketch/landing-page-strategist/v1.0.0/install.py
+curl --fail --location --output install-landing-page.py https://raw.githubusercontent.com/tonatojustin4-sketch/landing-page-strategist/v1.1.0/install.py
 ```
 
 Puedes revisar ese archivo antes de ejecutarlo. Después:
@@ -24,7 +24,7 @@ Puedes revisar ese archivo antes de ejecutarlo. Después:
 python3 install-landing-page.py
 ```
 
-Descarga `v1.0.0` y copia únicamente la skill en `~/.agents/skills/landing-page-strategist`, una ubicación personal descrita en la documentación oficial. No modifica configuración, no solicita credenciales y no sobrescribe instalaciones existentes.
+Descarga `v1.1.0` y copia únicamente la skill en `~/.agents/skills/landing-page-strategist`, una ubicación personal descrita en la documentación oficial. No modifica configuración, no solicita credenciales y no sobrescribe instalaciones existentes.
 
 Para usar otra carpeta, por ejemplo la ubicación del instalador integrado:
 

@@ -39,6 +39,8 @@ Extrae patrones de comunicación y jerarquía, sin copiar textos, identidad ni r
 
 ## Escribe y diseña
 
+Lee obligatoriamente [dirección humana y ejecución visual](references/direccion-humana.md) antes de escribir copy o código. Entrega un concepto propio, un guion por secciones y especificaciones implementables de composición y movimiento. Una lista de secciones y una paleta no constituyen dirección de arte. Aplica el control visual de esa referencia antes de dar por terminada la página.
+
 Redacta titulares comprensibles, beneficios vinculados a características reales, prueba cercana a la afirmación y CTAs que expliquen el siguiente paso. Resuelve las objeciones que realmente existan. Incluye precios, garantías y urgencia solo cuando estén confirmados. Una sección debe responder una pregunta del comprador; elimina las que solo alargan la página.
 
 Define paleta con roles, tipografía legible, espaciado, tratamiento de imágenes y una dirección visual coherente. Si no hay marca, propone una dirección razonada y provisional. Prioriza imágenes propias, demostraciones o recursos autorizados. La experiencia móvil debe conservar mensaje y CTA sin cortes ni elementos superpuestos.

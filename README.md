@@ -14,7 +14,7 @@ $skill-installer instala esta skill desde https://github.com/tonatojustin4-sketc
 
 El enlace identifica la carpeta completa de la skill, incluyendo sus referencias. No basta con copiar únicamente `SKILL.md`. Pegar un enlace no ejecuta una instalación por sí mismo: la instrucción pide al instalador de Codex que la realice, sujeto a los permisos del entorno.
 
-También puedes usar la [versión fija v1.0.0](https://github.com/tonatojustin4-sketch/landing-page-strategist/tree/v1.0.0/skills/landing-page-strategist) en lugar de `main`.
+También puedes usar la [versión fija v1.1.0](https://github.com/tonatojustin4-sketch/landing-page-strategist/tree/v1.1.0/skills/landing-page-strategist) en lugar de `main`.
 
 Para instalar desde terminal, usar el instalador independiente o actualizar una versión, consulta [INSTALL.md](INSTALL.md).
 
@@ -29,6 +29,10 @@ reservas por WhatsApp. Entrevístame y construye el proyecto completo.
 ```
 
 Puedes seleccionar la skill desde el selector de tu aplicación. Si no aparece después de instalarla, reinicia Codex. La forma de invocarla puede variar según la interfaz; la documentación oficial explica [cómo usar skills](https://developers.openai.com/codex/skills/).
+
+## Dirección creativa en v1.1.0
+
+Esta versión exige voz del cliente, concepto específico, guion visual por sección, transferencia explícita de referencias y revisión de capturas. Incluye especificación del mosaico del prompt dental, ritmo editorial y movimiento con propósito. Consulta [dirección humana](skills/landing-page-strategist/references/direccion-humana.md).
 
 ## Cómo funciona
 
