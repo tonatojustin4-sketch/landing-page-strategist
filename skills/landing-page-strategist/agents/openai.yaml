@@ -1,0 +1,7 @@
+interface:
+  display_name: "Landing Page Strategist"
+  short_description: "De entrevista a landing funcional lista para entregar"
+  default_prompt: "Usa $landing-page-strategist para entrevistarme y construir una landing funcional, editable y preparada para entregar a mi cliente."
+
+policy:
+  allow_implicit_invocation: true
